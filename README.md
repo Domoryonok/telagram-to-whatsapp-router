@@ -1,10 +1,10 @@
 # Telegram-to-WhatsApp Router
 
-Monitors selected Telegram public channels and forwards messages to your WhatsApp DMs via the Cloud API, with AI-powered content filtering.
+Monitors selected Telegram channels and forwards messages to your WhatsApp DMs via the Cloud API, with AI-powered content filtering.
 
 ## Features
 
-- **Multi-channel monitoring** — subscribe to any number of public Telegram channels
+- **Multi-channel monitoring** — subscribe to any number of Telegram channels
 - **All media types** — forwards text, photos, videos, documents, voice messages, stickers, and GIFs
 - **AI content filtering (optional)** — LLM-powered filters skip ads, spam, or anything you define in `filters.yml` (works with any OpenAI-compatible provider)
 - **Multiple filter rules** — add as many filters as you need; they run sequentially, first SKIP wins
