@@ -1,0 +1,10 @@
+filters:
+  - name: ads
+    prompt: |
+      SKIP these: advertisements, promotions, sponsored content, paid partnerships,
+      product pitches, affiliate links, discount codes, giveaways requiring follows/shares,
+      pure self-promotion — anything with no informational value.
+
+      FORWARD these: news, tutorials, analysis, opinions, discussions, open-source
+      announcements, technical content — even if it mentions a product, as long as
+      there is substantive information.
